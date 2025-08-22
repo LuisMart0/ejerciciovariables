@@ -1,0 +1,30 @@
+fun main() {
+    
+   //variablees implicitas
+    var bebidasDelDia = "capuchino";
+    var cantodadTazas = 25;
+    var precioCafe = 39.5;
+    var hayLeche = true;
+    var calificacionCliente = 'A';
+    
+    //variables explicitas
+    var PatelDelDia: String = "cheesecake";
+    var mesaDisponibles: Int = 7;
+    var descuentoDia: float = 15.0;
+    var temperaturaCafe: Double = 65.0;
+    var abierto: Boolean = true;
+    
+    //Constantes Implicitas
+    val nombreCafeteria = "Cielito Garden";
+    val capacidad maxima = 5;
+    val impuesto = 0.16;
+    val aceptaTarjeta = true;
+    val simboloCafe = '$';
+    
+    //Constantes Explicitas 
+    val añoApertura: Int = 2025;
+    val tamañoTaza: Double = 250.0;
+    val esFramquicia: Boolean = false;
+    val menuVersion: string = "v2.3";
+    val categoria: char = "C";
+}
